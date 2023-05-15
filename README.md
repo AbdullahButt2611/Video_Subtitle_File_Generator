@@ -45,11 +45,25 @@ Following are some of the new features and learning encountered while creating t
 <!-- ................................................................................................................................. -->
 
 
+### Resources
+<br>
+Follwing resources have been used in maintaining this project:
+
+- [Font Awesome](https://fontawesome.com/) to import icons into the project 
+- [Color Pallete](https://colorpalettes.colorion.co/#22) for selecting the theme of this project
+- [0to255](https://0to255.com/#3498db) for selecting the hover shades of the colors
+- [UnDraw](https://undraw.co/search) for using the vector for the video section
+
+
+<br><br>
+<!-- ................................................................................................................................. -->
+
+
 
 ### Demo
 <p align="justify">
   The Demo of this working project can be found on <br>
-  <a href="></a>
+  <a href="https://rebrand.ly/SubtitleGenerator_MABCORP">rebrand.ly/SubtitleGenerator_MABCORP</a>
 </p>
 
 
@@ -73,8 +87,8 @@ You can exclusively watch the video on this project from the making to deploying
 
 
 
-### GUI
-![GUI for this Project](path)
+### Application's Interface
+![GUI for this Project](/demo.png)
 
 
 <br><br>
